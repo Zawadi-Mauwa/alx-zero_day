@@ -1,0 +1,1 @@
+This project is aimed at getting ALX students familiar with git.
